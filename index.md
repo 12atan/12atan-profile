@@ -19,7 +19,7 @@
 
 ### 日月文化（EZJ） 精選
 
-<iframe width="" height="" src="https://www.youtube.com/embed/CJW8uWs_NLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="" src="https://www.youtube.com/embed/CJW8uWs_NLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 

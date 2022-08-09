@@ -1,44 +1,32 @@
 ## 12atan 作品經歷
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你好，我是阿碳，前綴12的原因是碳元素是C12。
+我擔任過 雨揚科技（命理師）、撥筋堂（整復師）、日月文化（出版社）的剪輯後製，
+以下是我的剪輯作品。
 
-### 剪輯後製
+## 剪輯後製
 
-## EZJ
+### 日月文化（EZJ） 精選
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/CJW8uWs_NLQ/0.jpg)](http://www.youtube.com/watch?v=CJW8uWs_NLQ "EZJ01")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1xa3PGJ6ZhQ/0.jpg)](http://www.youtube.com/watch?v=1xa3PGJ6ZhQ "EZJ02")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/hknmankTDsc/0.jpg)](http://www.youtube.com/watch?v=hknmankTDsc "EZJ03")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-tEjG6Cmgps/0.jpg)](http://www.youtube.com/watch?v=-tEjG6Cmgps "EZJ04")
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/1xa3PGJ6ZhQ/0.jpg)](http://www.youtube.com/watch?v=1xa3PGJ6ZhQ "EZJ01")
+### 撥筋堂 精選
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/vxEzKB7i6Og/0.jpg)](http://www.youtube.com/watch?v=vxEzKB7i6Og "Boginhall01")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/UuVCMZNjb5k/0.jpg)](http://www.youtube.com/watch?v=UuVCMZNjb5k "Boginhall02")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/OVwcaXv8qrs/0.jpg)](http://www.youtube.com/watch?v=OVwcaXv8qrs "Boginhall03")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XdyBDgYIw-w/0.jpg)](http://www.youtube.com/watch?v=XdyBDgYIw-w "Boginhall04")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/6gjBGOWr6fs/0.jpg)](http://www.youtube.com/watch?v=6gjBGOWr6fs "Boginhall05")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/o20b4Uhz4RA/0.jpg)](http://www.youtube.com/watch?v=o20b4Uhz4RA "Boginhall05")
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/hknmankTDsc/0.jpg)](http://www.youtube.com/watch?v=hknmankTDsc "EZJ01")
+### 雨揚科技 精選
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/c8zlBJ-OWXw/0.jpg)](http://www.youtube.com/watch?v=c8zlBJ-OWXw "Rain01")
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/-tEjG6Cmgps/0.jpg)](http://www.youtube.com/watch?v=-tEjG6Cmgps "EZJ01")
+### 自媒體（自己的 Youtube 頻道）精選
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/tD_x7-KqOsk/0.jpg)](http://www.youtube.com/watch?v=tD_x7-KqOsk "atan01")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/UdKu3uqBrJc/0.jpg)](http://www.youtube.com/watch?v=UdKu3uqBrJc "EZJ01")
 
-## 撥筋堂
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/12atan/12atan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 粉絲向MV作品（自己的 Youtube 頻道）精選
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/mV7w6UdpZdE/0.jpg)](http://www.youtube.com/watch?v=mV7w6UdpZdE "atan02")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/N4uWnsYfyHY/0.jpg)](http://www.youtube.com/watch?v=N4uWnsYfyHY "atan03")

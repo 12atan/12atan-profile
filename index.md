@@ -9,17 +9,22 @@
 聯絡信箱：12atan.c@gmail.com
 
 <br />
+
+以下是我的剪輯作品。
+
 <br />
+<br />
+
 
 ### 剪輯後製
 
-以下是我的剪輯作品。
+<hr>
 
 <br />
 
 ### 日月文化（EZJ） 精選
 
-<iframe width="320" height="" src="https://www.youtube.com/embed/CJW8uWs_NLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJW8uWs_NLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 
@@ -37,6 +42,7 @@
 <br />
 
 <hr>
+<br />
 ### 撥筋堂 精選
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxEzKB7i6Og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -64,6 +70,7 @@
 <br />
 
 <hr>
+<br />
 ### 雨揚科技 精選
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c8zlBJ-OWXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -71,6 +78,7 @@
 <br />
 
 <hr>
+<br />
 ### 自媒體（自己的 Youtube 頻道）精選
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tD_x7-KqOsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -78,6 +86,7 @@
 <br />
 
 <hr>
+<br />
 ### 粉絲向MV作品（自己的 Youtube 頻道）精選
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UdKu3uqBrJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

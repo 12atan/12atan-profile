@@ -5,13 +5,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 剪輯後製
 
 ## EZJ
-{% youtube CJW8uWs_NLQ %}
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/CJW8uWs_NLQ/0.jpg)](http://www.youtube.com/watch?v=CJW8uWs_NLQ "EZJ01")
 
-{% youtube 1xa3PGJ6ZhQ %}
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1xa3PGJ6ZhQ/0.jpg)](http://www.youtube.com/watch?v=1xa3PGJ6ZhQ "EZJ01")
 
-{% youtube hknmankTDsc %}
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/hknmankTDsc/0.jpg)](http://www.youtube.com/watch?v=hknmankTDsc "EZJ01")
 
-{% youtube -tEjG6Cmgps %}
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-tEjG6Cmgps/0.jpg)](http://www.youtube.com/watch?v=-tEjG6Cmgps "EZJ01")
 
 ## 撥筋堂
 

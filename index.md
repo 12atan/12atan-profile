@@ -25,8 +25,8 @@
 
 ### 自媒體（自己的 Youtube 頻道）精選
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/tD_x7-KqOsk/0.jpg)](http://www.youtube.com/watch?v=tD_x7-KqOsk "atan01")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/UdKu3uqBrJc/0.jpg)](http://www.youtube.com/watch?v=UdKu3uqBrJc "EZJ01")
 
 ### 粉絲向MV作品（自己的 Youtube 頻道）精選
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/UdKu3uqBrJc/0.jpg)](http://www.youtube.com/watch?v=UdKu3uqBrJc "EZJ01")
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/mV7w6UdpZdE/0.jpg)](http://www.youtube.com/watch?v=mV7w6UdpZdE "atan02")
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/N4uWnsYfyHY/0.jpg)](http://www.youtube.com/watch?v=N4uWnsYfyHY "atan03")

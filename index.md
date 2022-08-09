@@ -1,13 +1,13 @@
 ## 12atan 作品經歷
-```markdown
 
 你好，我是阿碳，前綴12的原因是碳元素是C12。
+<br />
 
 我擔任過 雨揚科技（命理師）、撥筋堂（整復師）、日月文化（出版社）的剪輯後製。
+<br />
 
 聯絡信箱：12atan.c@gmail.com
 
-```
 <br />
 <br />
 
@@ -19,7 +19,7 @@
 
 ### 日月文化（EZJ） 精選
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CJW8uWs_NLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="" height="" src="https://www.youtube.com/embed/CJW8uWs_NLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
 

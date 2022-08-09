@@ -9,26 +9,37 @@
 ## 剪輯後製
 
 ### 日月文化（EZJ） 精選
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/CJW8uWs_NLQ/0.jpg)](http://www.youtube.com/watch?v=CJW8uWs_NLQ "EZJ01")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/1xa3PGJ6ZhQ/0.jpg)](http://www.youtube.com/watch?v=1xa3PGJ6ZhQ "EZJ02")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/hknmankTDsc/0.jpg)](http://www.youtube.com/watch?v=hknmankTDsc "EZJ03")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/-tEjG6Cmgps/0.jpg)](http://www.youtube.com/watch?v=-tEjG6Cmgps "EZJ04")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CJW8uWs_NLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1xa3PGJ6ZhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hknmankTDsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-tEjG6Cmgps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 撥筋堂 精選
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/vxEzKB7i6Og/0.jpg)](http://www.youtube.com/watch?v=vxEzKB7i6Og "Boginhall01")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/UuVCMZNjb5k/0.jpg)](http://www.youtube.com/watch?v=UuVCMZNjb5k "Boginhall02")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/OVwcaXv8qrs/0.jpg)](http://www.youtube.com/watch?v=OVwcaXv8qrs "Boginhall03")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/XdyBDgYIw-w/0.jpg)](http://www.youtube.com/watch?v=XdyBDgYIw-w "Boginhall04")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/6gjBGOWr6fs/0.jpg)](http://www.youtube.com/watch?v=6gjBGOWr6fs "Boginhall05")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/o20b4Uhz4RA/0.jpg)](http://www.youtube.com/watch?v=o20b4Uhz4RA "Boginhall05")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxEzKB7i6Og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UuVCMZNjb5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVwcaXv8qrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XdyBDgYIw-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6gjBGOWr6fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o20b4Uhz4RA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 雨揚科技 精選
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/c8zlBJ-OWXw/0.jpg)](http://www.youtube.com/watch?v=c8zlBJ-OWXw "Rain01")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8zlBJ-OWXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 自媒體（自己的 Youtube 頻道）精選
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/tD_x7-KqOsk/0.jpg)](http://www.youtube.com/watch?v=tD_x7-KqOsk "atan01")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tD_x7-KqOsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 粉絲向MV作品（自己的 Youtube 頻道）精選
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/UdKu3uqBrJc/0.jpg)](http://www.youtube.com/watch?v=UdKu3uqBrJc "EZJ01")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/mV7w6UdpZdE/0.jpg)](http://www.youtube.com/watch?v=mV7w6UdpZdE "atan02")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/N4uWnsYfyHY/0.jpg)](http://www.youtube.com/watch?v=N4uWnsYfyHY "atan03")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UdKu3uqBrJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mV7w6UdpZdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N4uWnsYfyHY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
